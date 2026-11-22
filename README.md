@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Fawad 👋
 
-<!--
-**fawadby007-sys/fawadby007-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning frontend web development with HTML, CSS, and React.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- HTML5, CSS3, CSS Variables, Flexbox, Grid
+- Bootstrap 4, Responsive Design
+- Git, GitHub, GitHub Actions
+- VS Code, VS Code Extensions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Learning Path
+- [ ] Complete frontend curriculum
+- [ ] Build 5+ portfolio projects
+- [ ] Master TypeScript & TypeScript React
+- [ ] Learn Node.js & databases
+
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
